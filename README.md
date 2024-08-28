@@ -1,6 +1,11 @@
 ROLE-BASED ACCESS CONTROL (RBAC) SYSTEM DOCUMENTATION
 
+<<<<<<< HEAD
 Line added in master NOTE 
+=======
+Added this line
+NOTE 
+>>>>>>> practice
  - The backend code is in the branch named `backend`
  - The frontend code is in the branch named `frontend`
 
